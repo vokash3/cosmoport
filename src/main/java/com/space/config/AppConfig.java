@@ -1,6 +1,6 @@
 package com.space.config;
 
-//Let's start! GitHub test...
+//Let's start! GitHub test..
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
